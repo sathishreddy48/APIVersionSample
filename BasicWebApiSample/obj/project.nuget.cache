@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmfpTilQV2Eu0vXQMg3Ek/rTtPjMGQ98VMXXIhxBzcYLCgJcYNTbbW8YJZXGHpKlMnjqDlE7/DAb/ebypbGC5A==",
+  "success": true,
+  "projectFilePath": "C:\\Samples\\aspnet-api-versioning-master\\samples\\webapi\\BasicWebApiSample\\BasicWebApiSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.aspnet.webapi.owin\\5.2.7\\microsoft.aspnet.webapi.owin.5.2.7.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.aspnet.webapi.owinselfhost\\5.2.7\\microsoft.aspnet.webapi.owinselfhost.5.2.7.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.owin\\2.0.2\\microsoft.owin.2.0.2.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.owin.host.httplistener\\2.0.2\\microsoft.owin.host.httplistener.2.0.2.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.owin.hosting\\2.0.2\\microsoft.owin.hosting.2.0.2.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\v-satheg\\.nuget\\packages\\microsoft.aspnet.webapi.versioning\\4.1.1\\microsoft.aspnet.webapi.versioning.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

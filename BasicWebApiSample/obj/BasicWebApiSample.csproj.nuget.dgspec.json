@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Samples\\aspnet-api-versioning-master\\samples\\webapi\\BasicWebApiSample\\BasicWebApiSample.csproj": {}
+  },
+  "projects": {
+    "C:\\Samples\\aspnet-api-versioning-master\\samples\\webapi\\BasicWebApiSample\\BasicWebApiSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Samples\\aspnet-api-versioning-master\\samples\\webapi\\BasicWebApiSample\\BasicWebApiSample.csproj",
+        "projectName": "BasicWebApiSample",
+        "projectPath": "C:\\Samples\\aspnet-api-versioning-master\\samples\\webapi\\BasicWebApiSample\\BasicWebApiSample.csproj",
+        "packagesPath": "C:\\Users\\v-satheg\\.nuget\\packages\\",
+        "outputPath": "C:\\Samples\\aspnet-api-versioning-master\\samples\\webapi\\BasicWebApiSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Samples\\aspnet-api-versioning-master\\NuGet.Config",
+          "C:\\Users\\v-satheg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\Samples\\aspnet-api-versioning-master\\src\\Microsoft.AspNet.WebApi.Versioning\\Microsoft.AspNet.WebApi.Versioning.csproj": {
+                "projectPath": "C:\\Samples\\aspnet-api-versioning-master\\src\\Microsoft.AspNet.WebApi.Versioning\\Microsoft.AspNet.WebApi.Versioning.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.OwinSelfHost": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Samples\\aspnet-api-versioning-master\\src\\Microsoft.AspNet.WebApi.Versioning\\Microsoft.AspNet.WebApi.Versioning.csproj": {
+      "version": "4.1.1",
+      "restore": {
+        "projectUniqueName": "C:\\Samples\\aspnet-api-versioning-master\\src\\Microsoft.AspNet.WebApi.Versioning\\Microsoft.AspNet.WebApi.Versioning.csproj",
+        "projectName": "Microsoft.AspNet.WebApi.Versioning",
+        "projectPath": "C:\\Samples\\aspnet-api-versioning-master\\src\\Microsoft.AspNet.WebApi.Versioning\\Microsoft.AspNet.WebApi.Versioning.csproj",
+        "packagesPath": "C:\\Users\\v-satheg\\.nuget\\packages\\",
+        "outputPath": "C:\\Samples\\aspnet-api-versioning-master\\src\\Microsoft.AspNet.WebApi.Versioning\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Samples\\aspnet-api-versioning-master\\NuGet.Config",
+          "C:\\Users\\v-satheg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "noWarn": [
+            "NU5118"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.3, 6.0.0)"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-*, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
